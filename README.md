@@ -1,4 +1,4 @@
-# EmployeeManagement
+# EmployeeManagement using Spring MVC Design Pattern
 Key Features:
 Add Employee Information:
 Seamlessly add new employee details to the system, ensuring comprehensive records for effective workforce management.
